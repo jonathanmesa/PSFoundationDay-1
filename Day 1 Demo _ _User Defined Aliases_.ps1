@@ -6,4 +6,4 @@ Tab completion also makes it easier to type commands just as quickly and is typi
 #You can also create aliases with the New-Alias cmdlet
 New-Alias -Name GS -Value Get-Service
 #Use our new alias
-GS
+

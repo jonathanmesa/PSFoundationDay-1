@@ -67,3 +67,5 @@ Ticks                Property       long Ticks {get;}
 TimeOfDay            Property       timespan TimeOfDay {get;}                                                                                                                                                                                                                     
 Year                 Property       int Year {get;}                                                                                                                                                                                                                               
 DateTime             ScriptProperty System.Object DateTime {get=if ((& { Set-StrictMode -Version 1; $this.DisplayHint }) -ieq  "Date")...
+
+
